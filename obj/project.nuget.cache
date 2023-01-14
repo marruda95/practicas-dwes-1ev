@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/QBi4eBMoGfNqUYFcj321OOx8tXp/70R4b1m3Zq3loWazEPWmjMt1S9cwZh7drT+6611uiGe+MB4WqLjHDXVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A8-PC100\\Desktop\\dwes\\dwes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A8-PC100\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\A8-PC100\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

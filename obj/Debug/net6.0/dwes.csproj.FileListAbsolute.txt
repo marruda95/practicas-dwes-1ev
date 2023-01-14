@@ -1,0 +1,17 @@
+C:\Users\A8-PC100\Desktop\dwes\bin\Debug\net6.0\dwes.exe
+C:\Users\A8-PC100\Desktop\dwes\bin\Debug\net6.0\dwes.deps.json
+C:\Users\A8-PC100\Desktop\dwes\bin\Debug\net6.0\dwes.runtimeconfig.json
+C:\Users\A8-PC100\Desktop\dwes\bin\Debug\net6.0\dwes.dll
+C:\Users\A8-PC100\Desktop\dwes\bin\Debug\net6.0\dwes.pdb
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\dwes.csproj.AssemblyReference.cache
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\dwes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\dwes.AssemblyInfoInputs.cache
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\dwes.AssemblyInfo.cs
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\dwes.csproj.CoreCompileInputs.cache
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\dwes.dll
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\refint\dwes.dll
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\dwes.pdb
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\dwes.genruntimeconfig.cache
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\ref\dwes.dll
+C:\Users\A8-PC100\Desktop\dwes\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\A8-PC100\Desktop\dwes\obj\Debug\net6.0\dwes.csproj.CopyComplete
